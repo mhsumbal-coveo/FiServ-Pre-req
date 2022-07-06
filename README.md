@@ -1,6 +1,6 @@
 # FiServ-Pre-req
 
-## Pre-requisite guide
+## Pre-requisite Guide
 
 You will need to install the followig tools to run the FiServ demo locally.
 
