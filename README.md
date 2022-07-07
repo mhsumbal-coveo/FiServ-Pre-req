@@ -23,8 +23,8 @@ You will need to install the followig tools to run the FiServ demo locally.
 7. Open the Terminal tab > New Terminal
 8. Run the command ```npm install``` in the terminal
 9. Create a .env file in the root directory and add keys and values using the example.env file. For FiServ .env file, contact mhsumbal@coveo.com
-10. Run the command ```npm start``` in the terminal
-11. The browser will open up automatically and FiServ will running locally on localhost:3000.
+10. Wait for all the packages to install and then run the command ```npm start``` in the terminal
+11. The browser will open up automatically and FiServ will run locally on localhost:3000.
 
 ## Video Guide
 https://user-images.githubusercontent.com/104369481/177627393-f56cb0e2-d954-477f-b532-1faed83d4964.mp4
