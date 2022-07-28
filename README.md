@@ -1,4 +1,4 @@
-# FiServ-Pre-req
+# FiServ Pew-requisite and Setup Guide
 
 ## Pre-requisite Guide
 
@@ -22,7 +22,7 @@ You will need to install the followig tools to run the FiServ demo locally.
 ![image](https://user-images.githubusercontent.com/104369481/177624606-47a288c9-b0c9-4bc4-a21f-a03845ae2852.png)
 7. Open the Terminal tab > New Terminal
 8. Run the command ```npm install``` in the terminal
-9. Create a .env file in the root directory and add keys and values using the example.env file. For FiServ .env file, contact mhsumbal@coveo.com
+9. Create a .env file in the root directory and add keys and values using the example.env file. For FiServ .env file, contact mhsumbal@coveo.com. For creating your own API Key, follow the [screenshots](https://github.com/mhsumbal-coveo/Headless-Training/blob/main/API-Key_Screenshots.md).
 10. Wait for all the packages to install and then run the command ```npm start``` in the terminal
 11. The browser will open up automatically and FiServ will run locally on localhost:3000.
 
