@@ -1,4 +1,4 @@
-# FiServ Pew-requisite and Setup Guide
+# FiServ Pre-requisite and Setup Guide
 
 ## Pre-requisite Guide
 
