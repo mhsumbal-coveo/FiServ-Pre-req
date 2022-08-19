@@ -29,3 +29,22 @@ You will need to install the followig tools to run the FiServ demo locally.
 ## Video Guide
 https://user-images.githubusercontent.com/104369481/177627393-f56cb0e2-d954-477f-b532-1faed83d4964.mp4
 
+## Hosting
+
+Follow the guide below to host it on Netlify
+
+Add the [_redirects](https://github.com/mhsumbal-coveo/FiServ/blob/main/public/_redirects) in the public folder if you have an older version of FiServ. [Guide](https://ridbay.medium.com/react-routing-and-netlify-redirects-fd1f00eeee95)
+
+- Install Netlify CLI using ```npm install netlify-cli -g``` (close the terminal after installation and open it again)
+- Build the application ```npm run build```
+- Deploy using ```netlify deploy --prod```. You will be asked to login for the first time and answer the questions as below.
+  - Create & configure a new site
+  - select team => ```<select the team it shows>```
+  - site name => ```<name-of-your-poc>```
+  - Publish directory => ```build```
+  
+ After hosting is complete, the website URL will show up in the terminal. 
+ 
+ To re-deploy, follow the steps below.
+- Build the application again ```npm run build```
+- Deploy using ```netlify deploy --prod```
