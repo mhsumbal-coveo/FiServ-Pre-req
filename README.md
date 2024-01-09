@@ -11,7 +11,7 @@ You will need to install the followig tools to run the FiServ demo locally.
 ## Step by Step Guide
 
 
-1.  Copy this FiServ github repo link: https://github.com/coveo/FiServ-Headless.git
+1.  Copy this FiServ github repo link: https://github.com/coveo/GDE.git
 2. Open VS code
 3. Click on 'clone Git repository'
 ![image](https://user-images.githubusercontent.com/104369481/177623981-7d136a87-467a-476e-be97-da2dde5045d2.png)
